@@ -1,0 +1,15 @@
+# Scraped business data (phones/emails) — share privately (Google Drive), never in this public repo
+*.csv
+*.xlsx
+*.xls
+*-แยกตามหัวข้อ/
+แยกตามหัวข้อ/
+webdata/
+~$*
+
+# Logs (contain business URLs/names)
+*.log
+
+# Binaries and dependencies (see README to reinstall)
+*.exe
+node_modules/
